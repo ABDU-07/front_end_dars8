@@ -7,7 +7,7 @@ export default function Footer() {
                 <div className="flex gap-20">
                     <a href="#">
                         <img
-                            src="/public/icon/home.png"
+                            src="/src/img/icon/home.png"
                             alt=""
                             width="35"
                             height="35"
@@ -15,7 +15,7 @@ export default function Footer() {
                     </a>
                     <a href="#">
                         <img
-                            src="/public/icon/about_us.png"
+                            src="/src/img/icon/about_us.png"
                             alt=""
                             width="35"
                             height="35"
@@ -24,7 +24,7 @@ export default function Footer() {
 
                     <a href="#">
                         <img
-                            src="/public/icon/features.png"
+                            src="/src/img/icon/features.png"
                             alt=""
                             width="35"
                             height="35"
@@ -34,7 +34,7 @@ export default function Footer() {
                 <div className="flex gap-20">
                     <a href="#">
                         <img
-                            src="/public/icon/pricing.png"
+                            src="/src/img/icon/pricing.png"
                             alt=""
                             width="35"
                             height="35"
@@ -43,7 +43,7 @@ export default function Footer() {
 
                     <a href="#">
                         <img
-                            src="/public/icon/faq.png"
+                            src="/src/img/icon/faq.png"
                             alt=""
                             width="35"
                             height="35"
@@ -52,7 +52,7 @@ export default function Footer() {
 
                     <a href="#">
                         <img
-                            src="/public/icon/blog.png"
+                            src="/src/img/icon/blog.png"
                             alt=""
                             width="35"
                             height="35"

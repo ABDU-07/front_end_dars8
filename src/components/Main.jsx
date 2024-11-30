@@ -7,64 +7,64 @@ export default function Main() {
             title: "Strategy",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam .",
-            imgSrc: "/public/photo.png",
+            imgSrc: "/src/img/photo.png",
         },
         {
             id: 2,
             title: "Wireframing",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam .",
-            imgSrc: "/public/photo.png",
+            imgSrc: "/src/img/photo.png",
         },
         {
             id: 3,
             title: "Design",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam .",
-            imgSrc: "/public/photo.png",
+            imgSrc: "/src/img/photo.png",
         },
         {
             id: 4,
             title: "Development",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam.",
-            imgSrc: "/public/photo.png",
+            imgSrc: "/src/img/photo.png",
         },
     ];
 
     const malumotlar = [
         {
-            icon: "/public/user.png",
+            icon: "/src/img/user.png",
             title: "Uses Client First",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/public/submite.png",
+            icon: "/src/img/submite.png",
             title: "Two Free Revision Round",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/public/qalam.png",
+            icon: "/src/img/qalam.png",
             title: "Template Customization",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/public/savol.png",
+            icon: "/src/img/savol.png",
             title: "24/7 Support",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/public/soat.png",
+            icon: "/src/img/soat.png",
             title: "Quick Delivery",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/public/daftar.png",
+            icon: "/src/img/daftar.png",
             title: "Hands-on approach",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
@@ -100,7 +100,7 @@ export default function Main() {
                 </div>
                 <img
                     className="max-[900px]:w-[500px] max-[750px]:w-[300px]"
-                    src="/public/head_logo.png"
+                    src="/src/img/head_logo.png"
                     alt="head_img"
                 />
             </div>
