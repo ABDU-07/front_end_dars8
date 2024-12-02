@@ -1,4 +1,12 @@
 import React from "react";
+import photo from "/public/photo.png";
+import head_logo from "/public/head_logo.png";
+import daftar from "/public/daftar.png";
+import qalam from "/public/qalam.png";
+import savol from "/public/savol.png";
+import soat from "/public/soat.png";
+import submite from "/public/submite.png";
+import user from "/public/user.png";
 
 export default function Main() {
     const works = [
@@ -7,64 +15,64 @@ export default function Main() {
             title: "Strategy",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam .",
-            imgSrc: "/src/img/photo.png",
+            imgSrc: photo,
         },
         {
             id: 2,
             title: "Wireframing",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam .",
-            imgSrc: "/src/img/photo.png",
+            imgSrc: photo,
         },
         {
             id: 3,
             title: "Design",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam .",
-            imgSrc: "/src/img/photo.png",
+            imgSrc: photo,
         },
         {
             id: 4,
             title: "Development",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam.",
-            imgSrc: "/src/img/photo.png",
+            imgSrc: photo,
         },
     ];
 
     const malumotlar = [
         {
-            icon: "/src/img/user.png",
+            icon: user,
             title: "Uses Client First",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/src/img/submite.png",
+            icon: submite,
             title: "Two Free Revision Round",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/src/img/qalam.png",
+            icon: qalam,
             title: "Template Customization",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/src/img/savol.png",
+            icon: savol,
             title: "24/7 Support",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/src/img/soat.png",
+            icon: soat,
             title: "Quick Delivery",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",
         },
         {
-            icon: "/src/img/daftar.png",
+            icon: daftar,
             title: "Hands-on approach",
             description:
                 "Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi. ",

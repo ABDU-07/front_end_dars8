@@ -1,4 +1,10 @@
 import React from "react";
+import home from "/public/icon/home.png";
+import about_us from "/public/icon/about_us.png";
+import features from "/public/icon/features.png";
+import pricing from "/public/icon/pricing.png";
+import faq from "/public/icon/faq.png";
+import blog from "/public/icon/blog.png";
 
 export default function Footer() {
     return (
@@ -6,57 +12,27 @@ export default function Footer() {
             <div className="flex flex-col gap-10 ">
                 <div className="flex gap-20">
                     <a href="#">
-                        <img
-                            src="/src/img/icon/home.png"
-                            alt=""
-                            width="35"
-                            height="35"
-                        />
+                        <img src={home} alt="" width="35" height="35" />
                     </a>
                     <a href="#">
-                        <img
-                            src="/src/img/icon/about_us.png"
-                            alt=""
-                            width="35"
-                            height="35"
-                        />
+                        <img src={about_us} alt="" width="35" height="35" />
                     </a>
 
                     <a href="#">
-                        <img
-                            src="/src/img/icon/features.png"
-                            alt=""
-                            width="35"
-                            height="35"
-                        />
+                        <img src={features} alt="" width="35" height="35" />
                     </a>
                 </div>
                 <div className="flex gap-20">
                     <a href="#">
-                        <img
-                            src="/src/img/icon/pricing.png"
-                            alt=""
-                            width="35"
-                            height="35"
-                        />
+                        <img src={pricing} alt="" width="35" height="35" />
                     </a>
 
                     <a href="#">
-                        <img
-                            src="/src/img/icon/faq.png"
-                            alt=""
-                            width="35"
-                            height="35"
-                        />
+                        <img src={faq} alt="" width="35" height="35" />
                     </a>
 
                     <a href="#">
-                        <img
-                            src="/src/img/icon/blog.png"
-                            alt=""
-                            width="35"
-                            height="35"
-                        />
+                        <img src={blog} alt="" width="35" height="35" />
                     </a>
                 </div>
             </div>
