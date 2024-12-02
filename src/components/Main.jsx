@@ -108,7 +108,7 @@ export default function Main() {
                 </div>
                 <img
                     className="max-[900px]:w-[500px] max-[750px]:w-[300px]"
-                    src="/src/img/head_logo.png"
+                    src={head_logo}
                     alt="head_img"
                 />
             </div>
